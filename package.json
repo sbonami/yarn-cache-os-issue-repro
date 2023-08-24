@@ -1,4 +1,7 @@
 {
   "name": "yarn-cache-os-issue-repro",
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "nx": "^16.7.4"
+  }
 }
