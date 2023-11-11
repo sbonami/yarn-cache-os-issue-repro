@@ -388,11 +388,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["axios", [\
-        ["npm:1.4.0", {\
-          "packageLocation": "./.yarn/cache/axios-npm-1.4.0-4d7ce8ca3e-7fb6a4313b.zip/node_modules/axios/",\
+        ["npm:1.6.1", {\
+          "packageLocation": "./.yarn/cache/axios-npm-1.6.1-ffaff76449-573f03f59b.zip/node_modules/axios/",\
           "packageDependencies": [\
-            ["axios", "npm:1.4.0"],\
-            ["follow-redirects", "virtual:4d7ce8ca3e1e44d82523fba2ad95e1be18c4e9f8dec6d551377587540da3ed75bd8bd3e812280309a3b90cfdb0560f076f3552a20839f7f15665207a4fbd588a#npm:1.15.2"],\
+            ["axios", "npm:1.6.1"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
             ["form-data", "npm:4.0.0"],\
             ["proxy-from-env", "npm:1.1.0"]\
           ],\
@@ -866,10 +866,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:4d7ce8ca3e1e44d82523fba2ad95e1be18c4e9f8dec6d551377587540da3ed75bd8bd3e812280309a3b90cfdb0560f076f3552a20839f7f15665207a4fbd588a#npm:1.15.2", {\
-          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-359bc4c55c/0/cache/follow-redirects-npm-1.15.2-1ec1dd82be-faa66059b6.zip/node_modules/follow-redirects/",\
+        ["virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2", {\
+          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-c2d5794c26/0/cache/follow-redirects-npm-1.15.2-1ec1dd82be-faa66059b6.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "virtual:4d7ce8ca3e1e44d82523fba2ad95e1be18c4e9f8dec6d551377587540da3ed75bd8bd3e812280309a3b90cfdb0560f076f3552a20839f7f15665207a4fbd588a#npm:1.15.2"],\
+            ["follow-redirects", "virtual:ffaff76449f02e83712a7d24e03c564489516739c78ebeffb0fbcdb3893ad9a0e48504f9acfa70fe6f16debe9c8dabde3679d63bf648278ea98a5ff38cf77a9e#npm:1.15.2"],\
             ["@types/debug", null],\
             ["debug", null]\
           ],\
@@ -1678,7 +1678,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@yarnpkg/lockfile", "npm:1.1.0"],\
             ["@yarnpkg/parsers", "npm:3.0.0-rc.46"],\
             ["@zkochan/js-yaml", "npm:0.0.6"],\
-            ["axios", "npm:1.4.0"],\
+            ["axios", "npm:1.6.1"],\
             ["chalk", "npm:4.1.2"],\
             ["cli-cursor", "npm:3.1.0"],\
             ["cli-spinners", "npm:2.6.1"],\
